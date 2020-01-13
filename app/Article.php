@@ -95,7 +95,6 @@ class Article extends Model
     {
         return 'slug';
     }
-
     /**
      * Get the attribute name to slugify.
      *
